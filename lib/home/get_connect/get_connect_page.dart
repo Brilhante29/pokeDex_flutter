@@ -61,7 +61,7 @@ class GetConnectPage extends GetView<GetConnectController> {
                     onPressed: () => controller.findUsers(),
                     child: Text(
                       'Tentar novamente',
-                      style: TextStyle(color: Colors.red),
+                      style: TextStyle(color: CupertinoColors.systemRed),
                     ),
                   )
                 ],
