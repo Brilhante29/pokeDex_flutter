@@ -48,7 +48,7 @@ class _StatefulStateCupertino extends State<CupertinoListTile> {
                       child: Text(widget.subtitle!,
                           style: TextStyle(
                             fontFamily: 'SecOne',
-                            color: Colors.amber,
+                            color: CupertinoColors.activeBlue,
                             fontSize: 15,
                           )),
                     ),
