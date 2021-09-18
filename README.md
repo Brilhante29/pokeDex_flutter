@@ -1,4 +1,4 @@
-# navegacao_em_multiplas_telas_flutter
+# PokeDex_with_fluter
 
 A new Flutter project.
 
